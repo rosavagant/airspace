@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/screenshot_2020-09-02-21-57-13-302_com-google-android-apps-photos.jpg
   bg_overlay: true
   title: A Digital Marketing <br/> & Design Agency
   content: We love the Web and the work we do.We work closely with our clients to
